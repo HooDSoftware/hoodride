@@ -37,7 +37,7 @@ include 'partials/header.php';
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
           <i class="bi bi-car-front-fill"></i>
-            <h3><a href="">Choice of your interest</a></h3>
+            <h3><a href="">Choice of interest</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
@@ -62,7 +62,7 @@ include 'partials/header.php';
             <img src="assets/img/cars/12.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-            <h3>Ride or share your car for a limited time span.</h3>
+            <h3>Ride or share a car for a limited time span.</h3>
             <p class="fst-italic">
              <strong> Looking for a car or transportation means of your desire at the nick of time for a low cost? Well,look no more!!</strong>
             </p>
@@ -127,7 +127,7 @@ include 'partials/header.php';
             <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
              
             <i class="bi bi-geo-alt"></i>
-              <h4>Convinient-delivery options</h4>
+              <h4>Convenient-delivery options</h4>
               <p>Get the car delivered to where you are or to where you are going.Host offer car delivery custom locations or popular points of interests like airports, train stations and hotels
 
               </p>
