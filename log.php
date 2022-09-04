@@ -235,7 +235,7 @@ if($num>0)
       <input class="hidden" type="radio" name="choose-login" id="login"/>
       <div class="background-float">
       
-      <form action="rideowner/index.php" method="post"  class="login-form"  >
+      <form action="rideowner/index.html" method="post"  class="login-form"  >
        
           <h3 class="text-primary text-uppercase">Sign Up</h3>
           <div class="form-group">
@@ -252,7 +252,7 @@ if($num>0)
           </div>
           <button class="btn btn-primary" type="submit">Register </button>
         </form>
-        <form action="rider/index.php" method="post" class="register-form">
+        <form action="rider/index.html" method="post" class="register-form">
         
           <h3 class="text-primary text-uppercase">Sign Up</h3>
           <div class="form-group">
