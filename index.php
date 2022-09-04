@@ -19,7 +19,7 @@ include 'partials/header.php';
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
           <i class="bi bi-p-circle-fill"></i>
-            <h3><a href="">Convinient pickup solutions</a></h3>
+            <h3><a href="">Convenient pickup solutions</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
