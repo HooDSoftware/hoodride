@@ -7,7 +7,7 @@
   <meta charset="UTF-8">
   <title>HooDShare</title>
  
-<link rel="stylesheet" href="assets/css/ownerstyle.css">
+<link rel="stylesheet" href="assets/css/style.css">
 
 
 </head>
